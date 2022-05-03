@@ -17,8 +17,8 @@ CREDIT FOR FILERNE **OLSEN1157** CREDIT FOR AT HAVE FIKSET FEJL OSV **Python-A1t
 - Porten på serveren er som standard *30120*
 
 *Credit*
-**Sweezy**
-**Anton**
-**Maxe**
-**Torben**
-**Ustabil-Dreng-På-Nullert**
+**Sweezy**,
+**Anton**,
+**Maxe**,
+**Torben**,
+**Ustabil-Dreng-På-Nullert**,
